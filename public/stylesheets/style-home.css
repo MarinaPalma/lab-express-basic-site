@@ -1,0 +1,24 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #CCD1D1;
+}
+.navbar{
+  padding: 20px;
+}
+#carouselExampleControls{
+
+width:60%;
+
+}
+
+
+#carousel{
+display:flex;
+justify-content: center;
+margin: 1em;
+}
+
+h5{
+  font-size: 20px;
+}
+

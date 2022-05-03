@@ -1,0 +1,24 @@
+.navbar{
+    padding: 20px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color:#CCD1D1;
+}
+
+
+#center{
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+}
+
+.band{
+    width:60%;
+
+}
+.card-text{
+    padding:10px;
+    line-height: 1.8;
+
+}
